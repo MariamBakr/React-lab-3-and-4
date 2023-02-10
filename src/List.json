@@ -1,0 +1,39 @@
+[
+    {
+        "title": "IPhone X",
+        "price": 1000 ,
+        "description": "some random description",
+        "category":"mobile devices",
+        "created at":"2323 3Tz"
+    },
+    {
+        "title": "Tablet X",
+        "price": 1200 ,
+        "description": "some random description",
+        "category":"tablet devices"
+    },
+    {
+        "title": "Samsung S22",
+        "price": 1000 ,
+        "description": "some random description",
+        "category":"mobile devices"
+    },
+    {
+        "title": "Macbook Pro",
+        "price": 2000 ,
+        "description": "some random description",
+        "category":"laptops"
+    },
+    {
+        "title": "Dell ThinkPad",
+        "price": 1500 ,
+        "description": "some random description",
+        "category":"laptops"
+    },
+    {
+        "title": "Macbook Pro",
+        "price": 2000 ,
+        "description": "some random description",
+        "category":"laptops"
+    }
+]
